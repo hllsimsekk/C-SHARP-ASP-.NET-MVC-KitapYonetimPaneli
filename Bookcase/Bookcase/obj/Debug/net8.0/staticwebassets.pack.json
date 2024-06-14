@@ -1,0 +1,105 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Bookcase.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Bookcase.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\wwwroot\\Scripts\\bookcase.js",
+      "PackagePath": "staticwebassets\\Scripts\\bookcase.js"
+    },
+    {
+      "Id": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\wwwroot\\Scripts\\jquery-3.7.1.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery-3.7.1.js"
+    },
+    {
+      "Id": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\wwwroot\\Scripts\\newFile.js",
+      "PackagePath": "staticwebassets\\Scripts\\newFile.js"
+    },
+    {
+      "Id": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\wwwroot\\Scripts\\style.css",
+      "PackagePath": "staticwebassets\\Scripts\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\wwwroot\\css\\bookcase.css",
+      "PackagePath": "staticwebassets\\css\\bookcase.css"
+    },
+    {
+      "Id": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\wwwroot\\css\\bootstrap\\bootstrap-custom.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-custom.css"
+    },
+    {
+      "Id": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\wwwroot\\css\\bootstrap\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\wwwroot\\css\\bootstrap\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\wwwroot\\css\\bootstrap\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\wwwroot\\css\\bootstrap\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\wwwroot\\css\\datatables\\dataTables.dataTables.css",
+      "PackagePath": "staticwebassets\\css\\datatables\\dataTables.dataTables.css"
+    },
+    {
+      "Id": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\wwwroot\\css\\datatables\\fixedHeader.dataTables.css",
+      "PackagePath": "staticwebassets\\css\\datatables\\fixedHeader.dataTables.css"
+    },
+    {
+      "Id": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\wwwroot\\images\\icons\\icon_detay.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\icon_detay.svg"
+    },
+    {
+      "Id": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\wwwroot\\images\\icons\\info_black_24dp.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\info_black_24dp.svg"
+    },
+    {
+      "Id": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\wwwroot\\js\\bootstrap\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\wwwroot\\js\\bootstrap\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\wwwroot\\js\\bootstrap\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\wwwroot\\js\\datatables\\dataTables.fixedHeader.js",
+      "PackagePath": "staticwebassets\\js\\datatables\\dataTables.fixedHeader.js"
+    },
+    {
+      "Id": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\wwwroot\\js\\datatables\\dataTables.js",
+      "PackagePath": "staticwebassets\\js\\datatables\\dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\wwwroot\\js\\modul\\kitap\\kitap.js",
+      "PackagePath": "staticwebassets\\js\\modul\\kitap\\kitap.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Bookcase.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Bookcase.props",
+      "PackagePath": "build\\Bookcase.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Bookcase.props",
+      "PackagePath": "buildMultiTargeting\\Bookcase.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Bookcase.props",
+      "PackagePath": "buildTransitive\\Bookcase.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

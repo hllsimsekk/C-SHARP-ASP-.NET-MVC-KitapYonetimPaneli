@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "OXNqnakN+w6lKEkfr+m+watY5kcrvIb5G4k4FHvVjIqusRuWf0BRNjl17+ZS2Fj64TC7Gsotusf3KNLAS+Ukiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\Bookcase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\halil\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\8.0.2\\microsoft.aspnetcore.jsonpatch.8.0.2.nupkg.sha512",
+    "C:\\Users\\halil\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\8.0.2\\microsoft.aspnetcore.mvc.newtonsoftjson.8.0.2.nupkg.sha512",
+    "C:\\Users\\halil\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\halil\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\halil\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\halil\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\halil\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\halil\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\halil\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

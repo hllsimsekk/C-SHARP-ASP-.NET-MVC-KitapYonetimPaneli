@@ -1,0 +1,56 @@
+.icon-detay {
+    background-image: url('../images/icons/icon_detay.svg');
+}
+
+.grid-button {
+    text-align: center;
+    width: 20px !important;
+    cursor: pointer;
+}
+
+    .grid-button .ays-icon {
+        width: 32px;
+        height: 32px;
+        background-position: center;
+        align-items: center;
+        display: block;
+    }
+
+        .grid-button .ays-icon:hover {
+            background-color: #e9ecef;
+            text-decoration: none;
+            border-radius: 50%;
+        }
+
+.ays-icon {
+    width: 16px;
+    height: 16px;
+    background-size: 20px !important;
+    background-repeat: no-repeat;
+}
+
+.glyphicon {
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.btn.btn-success[name="btnEkle"] {
+    margin-bottom: 20px; 
+}
+
+.alert-custom {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    border-radius: 1rem; /* Köþelerin yuvarlak olmasý için */
+    z-index: 9999; /* Diðer elementlerin üzerine çýkmasý için */
+}
+
+
